@@ -1,3 +1,7 @@
+// Teller JDBC 
+// Oscar David Castillo y 
+// Gabriel Elías Valdelamar Caldera
+
 import java.sql.*;
 import java.util.Scanner;
 
